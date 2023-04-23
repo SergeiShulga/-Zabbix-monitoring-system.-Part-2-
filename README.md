@@ -53,3 +53,4 @@
 Разместите на нём несколько графиков на ваше усмотрение.
 Требования к результату
  Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
+![alt text](https://github.com/SergeiShulga/Zabbix-monitoring-system.-Part-2-/blob/main/img/006.png)
